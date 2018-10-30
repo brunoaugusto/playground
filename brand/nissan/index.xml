@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nissan on Hugo Debugging Playground</title>
+    <link>https://brunoaugusto.github.io/playground/brand/nissan/</link>
+    <description>Recent content in Nissan on Hugo Debugging Playground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Oct 2018 09:46:40 -0200</lastBuildDate>
+    
+	<atom:link href="https://brunoaugusto.github.io/playground/brand/nissan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Versa Note</title>
+      <link>https://brunoaugusto.github.io/playground/cars/nissan/versa-note/</link>
+      <pubDate>Tue, 30 Oct 2018 09:46:40 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/nissan/versa-note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rogue</title>
+      <link>https://brunoaugusto.github.io/playground/cars/nissan/rogue/</link>
+      <pubDate>Tue, 30 Oct 2018 09:46:30 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/nissan/rogue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frontier</title>
+      <link>https://brunoaugusto.github.io/playground/cars/nissan/frontier/</link>
+      <pubDate>Tue, 30 Oct 2018 09:46:18 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/nissan/frontier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>370Z</title>
+      <link>https://brunoaugusto.github.io/playground/cars/nissan/370z/</link>
+      <pubDate>Tue, 30 Oct 2018 09:46:12 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/nissan/370z/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyundai on Hugo Debugging Playground</title>
+    <link>https://brunoaugusto.github.io/playground/cars/hyundai/</link>
+    <description>Recent content in Hyundai on Hugo Debugging Playground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Oct 2018 09:36:15 -0200</lastBuildDate>
+    
+	<atom:link href="https://brunoaugusto.github.io/playground/cars/hyundai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tucson</title>
+      <link>https://brunoaugusto.github.io/playground/cars/hyundai/tucson/</link>
+      <pubDate>Tue, 30 Oct 2018 09:48:08 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/hyundai/tucson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HB20</title>
+      <link>https://brunoaugusto.github.io/playground/cars/hyundai/hb20/</link>
+      <pubDate>Tue, 30 Oct 2018 09:48:00 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/hyundai/hb20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonata</title>
+      <link>https://brunoaugusto.github.io/playground/cars/hyundai/sonata/</link>
+      <pubDate>Tue, 30 Oct 2018 09:47:43 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/hyundai/sonata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elantra</title>
+      <link>https://brunoaugusto.github.io/playground/cars/hyundai/elantra/</link>
+      <pubDate>Tue, 30 Oct 2018 09:47:40 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/hyundai/elantra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

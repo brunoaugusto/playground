@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>USA on Hugo Debugging Playground</title>
+    <link>https://brunoaugusto.github.io/playground/country/usa/</link>
+    <description>Recent content in USA on Hugo Debugging Playground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Oct 2018 09:51:40 -0200</lastBuildDate>
+    
+	<atom:link href="https://brunoaugusto.github.io/playground/country/usa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PT Cruiser</title>
+      <link>https://brunoaugusto.github.io/playground/cars/chrysler/pt-cruiser/</link>
+      <pubDate>Tue, 30 Oct 2018 09:51:40 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/chrysler/pt-cruiser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pacifica</title>
+      <link>https://brunoaugusto.github.io/playground/cars/chrysler/pacifica/</link>
+      <pubDate>Tue, 30 Oct 2018 09:51:31 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/chrysler/pacifica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebring</title>
+      <link>https://brunoaugusto.github.io/playground/cars/chrysler/sebring/</link>
+      <pubDate>Tue, 30 Oct 2018 09:51:27 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/chrysler/sebring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chrysler 300</title>
+      <link>https://brunoaugusto.github.io/playground/cars/chrysler/chrysler-300/</link>
+      <pubDate>Tue, 30 Oct 2018 09:50:57 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/chrysler/chrysler-300/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silverado</title>
+      <link>https://brunoaugusto.github.io/playground/cars/chevrolet/silverado/</link>
+      <pubDate>Tue, 30 Oct 2018 09:50:27 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/chevrolet/silverado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cruze</title>
+      <link>https://brunoaugusto.github.io/playground/cars/chevrolet/cruze/</link>
+      <pubDate>Tue, 30 Oct 2018 09:49:38 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/chevrolet/cruze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corvette</title>
+      <link>https://brunoaugusto.github.io/playground/cars/chevrolet/corvette/</link>
+      <pubDate>Tue, 30 Oct 2018 09:49:31 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/chevrolet/corvette/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camaro</title>
+      <link>https://brunoaugusto.github.io/playground/cars/chevrolet/camaro/</link>
+      <pubDate>Tue, 30 Oct 2018 09:49:23 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/chevrolet/camaro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
