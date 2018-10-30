@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Toyota on Hugo Debugging Playground</title><link>https://brunoaugusto.github.io/playground/cars/toyota/</link><description>Recent content in Toyota on Hugo Debugging Playground</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 Oct 2018 09:36:15 -0200</lastBuildDate><atom:link href="https://brunoaugusto.github.io/playground/cars/toyota/index.xml" rel="self" type="application/rss+xml"/><item><title>Camry</title><link>https://brunoaugusto.github.io/playground/cars/toyota/camry/</link><pubDate>Tue, 30 Oct 2018 09:47:14 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/toyota/camry/</guid><description/></item><item><title>Yaris</title><link>https://brunoaugusto.github.io/playground/cars/toyota/yaris/</link><pubDate>Tue, 30 Oct 2018 09:47:09 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/toyota/yaris/</guid><description/></item><item><title>Prius</title><link>https://brunoaugusto.github.io/playground/cars/toyota/prius/</link><pubDate>Tue, 30 Oct 2018 09:47:03 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/toyota/prius/</guid><description/></item><item><title>Corolla</title><link>https://brunoaugusto.github.io/playground/cars/toyota/corolla/</link><pubDate>Tue, 30 Oct 2018 09:46:58 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/toyota/corolla/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toyota on Hugo Debugging Playground</title>
+    <link>https://brunoaugusto.github.io/playground/cars/toyota/</link>
+    <description>Recent content in Toyota on Hugo Debugging Playground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Oct 2018 09:36:15 -0200</lastBuildDate>
+    
+	<atom:link href="https://brunoaugusto.github.io/playground/cars/toyota/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Camry</title>
+      <link>https://brunoaugusto.github.io/playground/cars/toyota/camry/</link>
+      <pubDate>Tue, 30 Oct 2018 09:47:14 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/toyota/camry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaris</title>
+      <link>https://brunoaugusto.github.io/playground/cars/toyota/yaris/</link>
+      <pubDate>Tue, 30 Oct 2018 09:47:09 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/toyota/yaris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prius</title>
+      <link>https://brunoaugusto.github.io/playground/cars/toyota/prius/</link>
+      <pubDate>Tue, 30 Oct 2018 09:47:03 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/toyota/prius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corolla</title>
+      <link>https://brunoaugusto.github.io/playground/cars/toyota/corolla/</link>
+      <pubDate>Tue, 30 Oct 2018 09:46:58 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/toyota/corolla/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

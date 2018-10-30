@@ -1,1 +1,87 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Italy on Hugo Debugging Playground</title><link>https://brunoaugusto.github.io/playground/country/italy/</link><description>Recent content in Italy on Hugo Debugging Playground</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 Oct 2018 09:43:43 -0200</lastBuildDate><atom:link href="https://brunoaugusto.github.io/playground/country/italy/index.xml" rel="self" type="application/rss+xml"/><item><title>Viaggio</title><link>https://brunoaugusto.github.io/playground/cars/fiat/viaggio/</link><pubDate>Tue, 30 Oct 2018 09:43:43 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/fiat/viaggio/</guid><description/></item><item><title>Toro</title><link>https://brunoaugusto.github.io/playground/cars/fiat/toro/</link><pubDate>Tue, 30 Oct 2018 09:43:34 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/fiat/toro/</guid><description/></item><item><title>Argo</title><link>https://brunoaugusto.github.io/playground/cars/fiat/argo/</link><pubDate>Tue, 30 Oct 2018 09:43:19 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/fiat/argo/</guid><description/></item><item><title>Cronos</title><link>https://brunoaugusto.github.io/playground/cars/fiat/cronos/</link><pubDate>Tue, 30 Oct 2018 09:43:13 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/fiat/cronos/</guid><description/></item><item><title>Veneno</title><link>https://brunoaugusto.github.io/playground/cars/lamborghini/veneno/</link><pubDate>Tue, 30 Oct 2018 09:42:50 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/lamborghini/veneno/</guid><description/></item><item><title>Aventador</title><link>https://brunoaugusto.github.io/playground/cars/lamborghini/aventador/</link><pubDate>Tue, 30 Oct 2018 09:42:32 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/lamborghini/aventador/</guid><description/></item><item><title>Gallardo</title><link>https://brunoaugusto.github.io/playground/cars/lamborghini/gallardo/</link><pubDate>Tue, 30 Oct 2018 09:42:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/lamborghini/gallardo/</guid><description/></item><item><title>Murcielago</title><link>https://brunoaugusto.github.io/playground/cars/lamborghini/murcielago/</link><pubDate>Tue, 30 Oct 2018 09:42:08 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/lamborghini/murcielago/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Italy on Hugo Debugging Playground</title>
+    <link>https://brunoaugusto.github.io/playground/country/italy/</link>
+    <description>Recent content in Italy on Hugo Debugging Playground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Oct 2018 09:43:43 -0200</lastBuildDate>
+    
+	<atom:link href="https://brunoaugusto.github.io/playground/country/italy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Viaggio</title>
+      <link>https://brunoaugusto.github.io/playground/cars/fiat/viaggio/</link>
+      <pubDate>Tue, 30 Oct 2018 09:43:43 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/fiat/viaggio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toro</title>
+      <link>https://brunoaugusto.github.io/playground/cars/fiat/toro/</link>
+      <pubDate>Tue, 30 Oct 2018 09:43:34 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/fiat/toro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Argo</title>
+      <link>https://brunoaugusto.github.io/playground/cars/fiat/argo/</link>
+      <pubDate>Tue, 30 Oct 2018 09:43:19 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/fiat/argo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cronos</title>
+      <link>https://brunoaugusto.github.io/playground/cars/fiat/cronos/</link>
+      <pubDate>Tue, 30 Oct 2018 09:43:13 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/fiat/cronos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veneno</title>
+      <link>https://brunoaugusto.github.io/playground/cars/lamborghini/veneno/</link>
+      <pubDate>Tue, 30 Oct 2018 09:42:50 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/lamborghini/veneno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aventador</title>
+      <link>https://brunoaugusto.github.io/playground/cars/lamborghini/aventador/</link>
+      <pubDate>Tue, 30 Oct 2018 09:42:32 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/lamborghini/aventador/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gallardo</title>
+      <link>https://brunoaugusto.github.io/playground/cars/lamborghini/gallardo/</link>
+      <pubDate>Tue, 30 Oct 2018 09:42:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/lamborghini/gallardo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Murcielago</title>
+      <link>https://brunoaugusto.github.io/playground/cars/lamborghini/murcielago/</link>
+      <pubDate>Tue, 30 Oct 2018 09:42:08 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/lamborghini/murcielago/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

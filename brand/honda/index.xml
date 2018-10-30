@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Honda on Hugo Debugging Playground</title><link>https://brunoaugusto.github.io/playground/brand/honda/</link><description>Recent content in Honda on Hugo Debugging Playground</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 Oct 2018 09:45:15 -0200</lastBuildDate><atom:link href="https://brunoaugusto.github.io/playground/brand/honda/index.xml" rel="self" type="application/rss+xml"/><item><title>Insight</title><link>https://brunoaugusto.github.io/playground/cars/honda/insight/</link><pubDate>Tue, 30 Oct 2018 09:45:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/honda/insight/</guid><description/></item><item><title>Civic</title><link>https://brunoaugusto.github.io/playground/cars/honda/civic/</link><pubDate>Tue, 30 Oct 2018 09:45:06 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/honda/civic/</guid><description/></item><item><title>Accord</title><link>https://brunoaugusto.github.io/playground/cars/honda/accord/</link><pubDate>Tue, 30 Oct 2018 09:44:58 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/honda/accord/</guid><description/></item><item><title>Fit</title><link>https://brunoaugusto.github.io/playground/cars/honda/fit/</link><pubDate>Tue, 30 Oct 2018 09:44:55 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/honda/fit/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Honda on Hugo Debugging Playground</title>
+    <link>https://brunoaugusto.github.io/playground/brand/honda/</link>
+    <description>Recent content in Honda on Hugo Debugging Playground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Oct 2018 09:45:15 -0200</lastBuildDate>
+    
+	<atom:link href="https://brunoaugusto.github.io/playground/brand/honda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Insight</title>
+      <link>https://brunoaugusto.github.io/playground/cars/honda/insight/</link>
+      <pubDate>Tue, 30 Oct 2018 09:45:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/honda/insight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Civic</title>
+      <link>https://brunoaugusto.github.io/playground/cars/honda/civic/</link>
+      <pubDate>Tue, 30 Oct 2018 09:45:06 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/honda/civic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accord</title>
+      <link>https://brunoaugusto.github.io/playground/cars/honda/accord/</link>
+      <pubDate>Tue, 30 Oct 2018 09:44:58 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/honda/accord/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fit</title>
+      <link>https://brunoaugusto.github.io/playground/cars/honda/fit/</link>
+      <pubDate>Tue, 30 Oct 2018 09:44:55 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/honda/fit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

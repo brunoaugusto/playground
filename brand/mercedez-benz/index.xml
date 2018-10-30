@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mercedez-Benz on Hugo Debugging Playground</title><link>https://brunoaugusto.github.io/playground/brand/mercedez-benz/</link><description>Recent content in Mercedez-Benz on Hugo Debugging Playground</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 Oct 2018 09:39:15 -0200</lastBuildDate><atom:link href="https://brunoaugusto.github.io/playground/brand/mercedez-benz/index.xml" rel="self" type="application/rss+xml"/><item><title>500k</title><link>https://brunoaugusto.github.io/playground/cars/mercedes-benz/500k/</link><pubDate>Tue, 30 Oct 2018 09:39:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/mercedes-benz/500k/</guid><description/></item><item><title>Ssk</title><link>https://brunoaugusto.github.io/playground/cars/mercedes-benz/ssk/</link><pubDate>Tue, 30 Oct 2018 09:38:58 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/mercedes-benz/ssk/</guid><description/></item><item><title>R Class</title><link>https://brunoaugusto.github.io/playground/cars/mercedes-benz/r-class/</link><pubDate>Tue, 30 Oct 2018 09:38:42 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/mercedes-benz/r-class/</guid><description/></item><item><title>C Class</title><link>https://brunoaugusto.github.io/playground/cars/mercedes-benz/c-class/</link><pubDate>Tue, 30 Oct 2018 09:38:24 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/mercedes-benz/c-class/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mercedez-Benz on Hugo Debugging Playground</title>
+    <link>https://brunoaugusto.github.io/playground/brand/mercedez-benz/</link>
+    <description>Recent content in Mercedez-Benz on Hugo Debugging Playground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Oct 2018 09:39:15 -0200</lastBuildDate>
+    
+	<atom:link href="https://brunoaugusto.github.io/playground/brand/mercedez-benz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>500k</title>
+      <link>https://brunoaugusto.github.io/playground/cars/mercedes-benz/500k/</link>
+      <pubDate>Tue, 30 Oct 2018 09:39:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/mercedes-benz/500k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ssk</title>
+      <link>https://brunoaugusto.github.io/playground/cars/mercedes-benz/ssk/</link>
+      <pubDate>Tue, 30 Oct 2018 09:38:58 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/mercedes-benz/ssk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Class</title>
+      <link>https://brunoaugusto.github.io/playground/cars/mercedes-benz/r-class/</link>
+      <pubDate>Tue, 30 Oct 2018 09:38:42 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/mercedes-benz/r-class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Class</title>
+      <link>https://brunoaugusto.github.io/playground/cars/mercedes-benz/c-class/</link>
+      <pubDate>Tue, 30 Oct 2018 09:38:24 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/mercedes-benz/c-class/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Maserati on Hugo Debugging Playground</title><link>https://brunoaugusto.github.io/playground/brand/maserati/</link><description>Recent content in Maserati on Hugo Debugging Playground</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 Oct 2018 09:44:40 -0200</lastBuildDate><atom:link href="https://brunoaugusto.github.io/playground/brand/maserati/index.xml" rel="self" type="application/rss+xml"/><item><title>Mexico</title><link>https://brunoaugusto.github.io/playground/cars/maserati/mexico/</link><pubDate>Tue, 30 Oct 2018 09:44:40 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/maserati/mexico/</guid><description/></item><item><title>Sebring</title><link>https://brunoaugusto.github.io/playground/cars/maserati/sebring/</link><pubDate>Tue, 30 Oct 2018 09:44:27 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/maserati/sebring/</guid><description/></item><item><title>300s</title><link>https://brunoaugusto.github.io/playground/cars/maserati/300s/</link><pubDate>Tue, 30 Oct 2018 09:44:19 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/maserati/300s/</guid><description/></item><item><title>Gran Turismo</title><link>https://brunoaugusto.github.io/playground/cars/maserati/gran-turismo/</link><pubDate>Tue, 30 Oct 2018 09:44:03 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/maserati/gran-turismo/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maserati on Hugo Debugging Playground</title>
+    <link>https://brunoaugusto.github.io/playground/brand/maserati/</link>
+    <description>Recent content in Maserati on Hugo Debugging Playground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Oct 2018 09:44:40 -0200</lastBuildDate>
+    
+	<atom:link href="https://brunoaugusto.github.io/playground/brand/maserati/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mexico</title>
+      <link>https://brunoaugusto.github.io/playground/cars/maserati/mexico/</link>
+      <pubDate>Tue, 30 Oct 2018 09:44:40 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/maserati/mexico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebring</title>
+      <link>https://brunoaugusto.github.io/playground/cars/maserati/sebring/</link>
+      <pubDate>Tue, 30 Oct 2018 09:44:27 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/maserati/sebring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>300s</title>
+      <link>https://brunoaugusto.github.io/playground/cars/maserati/300s/</link>
+      <pubDate>Tue, 30 Oct 2018 09:44:19 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/maserati/300s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gran Turismo</title>
+      <link>https://brunoaugusto.github.io/playground/cars/maserati/gran-turismo/</link>
+      <pubDate>Tue, 30 Oct 2018 09:44:03 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/maserati/gran-turismo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

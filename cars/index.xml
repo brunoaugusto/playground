@@ -1,1 +1,159 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Brands on Hugo Debugging Playground</title><link>https://brunoaugusto.github.io/playground/cars/</link><description>Recent content in Brands on Hugo Debugging Playground</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 Oct 2018 09:36:15 -0200</lastBuildDate><atom:link href="https://brunoaugusto.github.io/playground/cars/index.xml" rel="self" type="application/rss+xml"/><item><title>Audi</title><link>https://brunoaugusto.github.io/playground/cars/audi/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/audi/</guid><description/></item><item><title>BMW</title><link>https://brunoaugusto.github.io/playground/cars/bmw/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/bmw/</guid><description/></item><item><title>Chevrolet</title><link>https://brunoaugusto.github.io/playground/cars/chevrolet/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/chevrolet/</guid><description/></item><item><title>Chrysler</title><link>https://brunoaugusto.github.io/playground/cars/chrysler/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/chrysler/</guid><description/></item><item><title>Fiat</title><link>https://brunoaugusto.github.io/playground/cars/fiat/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/fiat/</guid><description/></item><item><title>Honda</title><link>https://brunoaugusto.github.io/playground/cars/honda/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/honda/</guid><description/></item><item><title>Hyundai</title><link>https://brunoaugusto.github.io/playground/cars/hyundai/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/hyundai/</guid><description/></item><item><title>Lamborghini</title><link>https://brunoaugusto.github.io/playground/cars/lamborghini/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/lamborghini/</guid><description/></item><item><title>Lexus</title><link>https://brunoaugusto.github.io/playground/cars/lexus/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/lexus/</guid><description/></item><item><title>Maserati</title><link>https://brunoaugusto.github.io/playground/cars/maserati/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/maserati/</guid><description/></item><item><title>Mercedes-Benz</title><link>https://brunoaugusto.github.io/playground/cars/mercedes-benz/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/mercedes-benz/</guid><description/></item><item><title>Nissan</title><link>https://brunoaugusto.github.io/playground/cars/nissan/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/nissan/</guid><description/></item><item><title>Porsche</title><link>https://brunoaugusto.github.io/playground/cars/porsche/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/porsche/</guid><description/></item><item><title>Toyota</title><link>https://brunoaugusto.github.io/playground/cars/toyota/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/toyota/</guid><description/></item><item><title>Volkwagen</title><link>https://brunoaugusto.github.io/playground/cars/volkswagen/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/volkswagen/</guid><description/></item><item><title>Volvo</title><link>https://brunoaugusto.github.io/playground/cars/volvo/</link><pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate><guid>https://brunoaugusto.github.io/playground/cars/volvo/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brands on Hugo Debugging Playground</title>
+    <link>https://brunoaugusto.github.io/playground/cars/</link>
+    <description>Recent content in Brands on Hugo Debugging Playground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Oct 2018 09:36:15 -0200</lastBuildDate>
+    
+	<atom:link href="https://brunoaugusto.github.io/playground/cars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Audi</title>
+      <link>https://brunoaugusto.github.io/playground/cars/audi/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/audi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BMW</title>
+      <link>https://brunoaugusto.github.io/playground/cars/bmw/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/bmw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chevrolet</title>
+      <link>https://brunoaugusto.github.io/playground/cars/chevrolet/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/chevrolet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chrysler</title>
+      <link>https://brunoaugusto.github.io/playground/cars/chrysler/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/chrysler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fiat</title>
+      <link>https://brunoaugusto.github.io/playground/cars/fiat/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/fiat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Honda</title>
+      <link>https://brunoaugusto.github.io/playground/cars/honda/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/honda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyundai</title>
+      <link>https://brunoaugusto.github.io/playground/cars/hyundai/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/hyundai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lamborghini</title>
+      <link>https://brunoaugusto.github.io/playground/cars/lamborghini/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/lamborghini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexus</title>
+      <link>https://brunoaugusto.github.io/playground/cars/lexus/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/lexus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maserati</title>
+      <link>https://brunoaugusto.github.io/playground/cars/maserati/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/maserati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mercedes-Benz</title>
+      <link>https://brunoaugusto.github.io/playground/cars/mercedes-benz/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/mercedes-benz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nissan</title>
+      <link>https://brunoaugusto.github.io/playground/cars/nissan/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/nissan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Porsche</title>
+      <link>https://brunoaugusto.github.io/playground/cars/porsche/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/porsche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toyota</title>
+      <link>https://brunoaugusto.github.io/playground/cars/toyota/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/toyota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volkwagen</title>
+      <link>https://brunoaugusto.github.io/playground/cars/volkswagen/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/volkswagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volvo</title>
+      <link>https://brunoaugusto.github.io/playground/cars/volvo/</link>
+      <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
+      
+      <guid>https://brunoaugusto.github.io/playground/cars/volvo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
