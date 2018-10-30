@@ -602,7 +602,7 @@
       <pubDate>Tue, 30 Oct 2018 09:36:15 -0200</pubDate>
       
       <guid>https://brunoaugusto.github.io/playground/search/</guid>
-      <description>var cache = {}; function load( url ) { if( ! cache[ url ] ) { cache[ url ] = $.ajax( url ); } return cache[ url ]; } // Taxonomy load( &#39;/tags/&#39; ).done( function( response ) { var data = $( jQuery.parseHTML( response ) ).find( &#39;.catalogue&#39; ).find( &#39;li&#39; ); var cars = {}; $.each( data, function ( offset, current ) { var url = $( current ).find( &#39;a&#39; ).</description>
+      <description>var cache = {}; function load( url ) { if( ! cache[ url ] ) { cache[ url ] = $.ajax( url ); } return cache[ url ]; } // Taxonomy load( &#39;/playground/tags/&#39; ).done( function( response ) { var data = $( jQuery.parseHTML( response ) ).find( &#39;.catalogue&#39; ).find( &#39;li&#39; ); var cars = {}; $.each( data, function ( offset, current ) { var url = $( current ).find( &#39;a&#39; ).</description>
     </item>
     
     <item>
